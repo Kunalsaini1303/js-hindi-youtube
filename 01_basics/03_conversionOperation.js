@@ -1,4 +1,4 @@
-let score = "kunal"
+let score = "33"
 
 console.log(typeof score );
 console.log(typeof(score)); //written as method in brkts
@@ -16,8 +16,8 @@ let isloggedin = "kunal"
 let booleanisloggedin = Boolean (isloggedin)
 console.log(booleanisloggedin);
 
-// 1 converted in true in boolean 
-// 0 converted in false in boolean 
+// 1 converted to true in boolean 
+// 0 converted to false in boolean 
 // " " empty string converted in false
 // "kunal" converted in true 
 
