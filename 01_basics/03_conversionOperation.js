@@ -73,6 +73,16 @@ console.log(gamecounter);
 mdn js incremental oprator 
 */
 
+/*
+let a = 10
+b = a++
+console.log(a,b); //op is 11 10 returns the value before incrementing.
+
+let x = 10
+y = ++x
+console.log(x,y); //op is 11 11 returns the value after incrementing.
+*/
+
 
 
 
