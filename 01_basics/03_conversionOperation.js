@@ -25,3 +25,56 @@ let somenumber = 33
 let stringnumber = String (somenumber)
 console.log(stringnumber);
 console.log(typeof (stringnumber));
+
+/**** oprations ****/
+
+let value = 3
+let negvalue = -value
+console.log(negvalue);
+
+/*
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2**3);
+console.log(2/3);
+console.log(2%3);
+*/
+
+let str1 = "kunal"
+let str2 = " saini"
+ 
+let str3 = str1+str2
+console.log(str3);
+
+/*
+
+console.log("1"+2); //op will be 12
+console.log(1+"2"); //op will be 12
+console.log("1"+2+2); // op will be 122
+console.log("1"+(2+2)); // op will be 14
+console.log(1+2+"2"); // op will be 32
+console.log(1+2+"2"+(2+2)); //op will be 324
+
+*/
+
+
+
+/*
+console.log(+true) // op is 1
+console.log(+""); // op is 0
+*/
+
+/*
+let gamecounter = 100
+gamecounter++;
+console.log(gamecounter); 
+
+mdn js incremental oprator 
+*/
+
+
+
+
+
+
