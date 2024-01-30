@@ -31,11 +31,18 @@ const bignumber = 98745687456213548795n
 console.log(typeof bignumber); //BigInt
 
 
-
-
-
-
-
-
 //refrence or non reference
 //array, objects, functions
+
+const heroes = ["hulk, ironman, spiderman"];
+
+let myobj= {
+    name: "kunal",
+    age: 20,
+}
+
+const myfunction = function(){
+    console.log("hello world");
+}
+
+console.log(typeof heroes);
