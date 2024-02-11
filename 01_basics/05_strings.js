@@ -25,5 +25,17 @@ console.log(GameName.indexOf('a')) // to find asked cahr at what postion // op i
 const onestring = GameName.substring(0, 4) // use to divide string // op is kuna
 console.log(onestring);
 
-const twostring = GameName.slice(0, 4) // negative values can be used// op is kuna
+const twostring = GameName.slice( 0,4) // negative values can be used// op is kuna
 console.log(twostring);
+
+const threestring = "  kunal   "
+console.log(threestring)
+console.log(threestring.trim()) // trim removes the spaces from starting and end
+
+const fourstring = "kunal saini 20"
+console.log(fourstring) 
+console.log(fourstring.replace('20','soon to be 21')) // replaces the searched to a new word 
+
+console.log(fourstring.includes("kunal")) //finds the searched word is aavailable or not
+console.log(fourstring.includes("hello"))
+
